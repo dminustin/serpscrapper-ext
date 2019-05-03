@@ -1,0 +1,4 @@
+src/SearchEngineScraper.php
+.idea
+composer.lock
+vendor
