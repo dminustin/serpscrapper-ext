@@ -1,12 +1,21 @@
 {
 	"name": "dminustin/serpscraper-ext",
 	"description": "PHP powered interface for querying the most popular Search Engines",
-	"keywords": ["google scraper", "bing scraper", "google search", "bing search", "google captcha solver", "google proxy"],
+	"keywords": ["bing image search", "google scraper", "bing scraper", "google search", "bing search", "google captcha solver", "google proxy"],
 	"license": "MIT",
 	"require": {
 		"ext-curl": "*"
 	},
 	"version": "2.1",
+	"authors": [
+		{
+			"name": "Danila Minustin",
+			"email": "danila.minustin@gmail.com"
+		},
+		{
+			"name": "athlon1600"
+		}
+	],
 	"autoload": {
 		"psr-4": {
 			"SerpScraper\\": "src/"
