@@ -14,7 +14,7 @@ Changes by D. Minustin
 The recommended way to install this is via Composer:
 
 ```bash
-composer require dminustin/serpscraper
+composer require dminustin/serpscraper-ext
 ```
 
 ###  --- Bing search results (May 2019)
